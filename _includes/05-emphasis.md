@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Web developer*
+_with JSF_
+
+**Mobile app developer**
+__with Flutter__
+
